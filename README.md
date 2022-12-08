@@ -2,7 +2,7 @@
 
 # Weight-A-Minute
 
-### This app is for checking your daily fitness and nutrition. You can set your height and weight. Set goals for yourself. Track your daily nutrition along with weight loss or gain.
+### This is a fitness app/blog where people share their workouts and nutrition tips.
 
 ## Date: 12/8/22
 
