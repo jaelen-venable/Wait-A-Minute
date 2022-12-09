@@ -1,5 +1,7 @@
 const { Schema } = require('mongoose')
 
-const comment = new Schema ({
+const Comment = new Schema ({
     body: {type:String}
 })
+
+module.exports = Comment
