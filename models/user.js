@@ -8,7 +8,8 @@ const User = new Schema({
     weight: {type:Number},
     password: {type:String},
     location: {type:String},
-    avatar: {type:String}
+    avatar: {type:String},
+    posts: [{type:Schema.Types.ObjectId, ref:'Post'}]
 })
 
 module.exports = User
