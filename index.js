@@ -1,18 +1,22 @@
-import express from "express";
-import bodyParser from "body-parser";
-import mongoose from "mongoose";
-import dotenv from "dotenv";
-import { fileURLToPath } from "url";
-
+const express = require('express')
+const cors = require('cors')
+const logger = require('morgan')
 
 /* CONFIGURATIONS */
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-dotenv.config();
-const app = express();
-app.use = (express.json());
-app.use(bodyParser.json({ limit: "30mb", extended: true}));
-app.use(bodyParser.urlencoded({ limit: "30mb", extended: true}));
-app.use(cors());
-app.use("/assets", express.static(path.join(__dirname, 'public/assets')));
+const app = express()
+const PORT = process.env.PORT || 3001
+
+app.use(cors())
+app.use(logger('dev'))
+// the following middleware comes out of the box with express...
+app.use(express.json())
+app.use(express.urlencoded({ extended: false }))
+
+/* routes go between these comments */
+
+/* routes go between these comments */
+
+app.listen(PORT, () => {
+    console.log(`App listening on port: ${PORT}`)
+  })
