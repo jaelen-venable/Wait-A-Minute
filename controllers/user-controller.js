@@ -11,4 +11,8 @@ export const getAllUser = async (req, res, next) => {
         return res.status(404).json({message: "No User"});
     }
     return res.status(200).json({users});
+};
+
+export const signup = asynce (req, res, next) => {
+    
 }
