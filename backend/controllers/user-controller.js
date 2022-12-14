@@ -20,7 +20,7 @@ export const signup = async (req, res, next) => {
     try {
         existingUser = await User.findOne({email});
     } catch (err) {
-        console.log(err);
+    return console.log(err);
     }
     if (existingUser) {
         return res.status(400).json({message: "User Already Exists! Login Instead"})
@@ -34,7 +34,7 @@ export const signup = async (req, res, next) => {
     try {
         user.save()
     } catch (err) {
-        console.log(err);
+    return console.log(err);
     }
     return res.status(201).json({user})
 }
