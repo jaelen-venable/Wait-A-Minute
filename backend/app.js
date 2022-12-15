@@ -1,5 +1,6 @@
 import express from "express";
 import mongoose from "mongoose";
+import blogRouter from "./routes/blog-routes.js";
 import router from "./routes/user-routes.js";
 
 
@@ -7,6 +8,7 @@ import router from "./routes/user-routes.js";
 const app = express();
 app.use(express.json());
 app.use("/api/user", router);
+app.use("/api/blog", blogRouter);
 mongoose
     .connect(
         "mongodb+srv://jaeven:donut@cluster0.fnbx45f.mongodb.net/WaitAMinute=true&w=majority"

@@ -26,7 +26,7 @@ export const signup = async (req, res, next) => {
         return res.status(400).json({message: "User Already Exists! Login Instead"})
     }
     const hashedPassword = bcrypt.hashSync(password);
-    
+
     const user = new User ({
         name,
         email,
@@ -39,7 +39,7 @@ export const signup = async (req, res, next) => {
     return console.log(err);
     }
     return res.status(201).json({user})
-}
+};
 
 export const login = async (req, res, next) => {
     const { email, password} = req.body;
@@ -58,4 +58,4 @@ export const login = async (req, res, next) => {
         return res.status(400),json({message: "Incorrect Password"})
     }
     return res.status(200).json({message: "Login Successfull"})
-}
+};
