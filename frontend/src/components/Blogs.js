@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import { Card } from "@mui/material";
+
 
 const Blogs = () => {
     const [blogs, setBlogs] = useState();
@@ -13,7 +15,9 @@ const Blogs = () => {
     }, []);
     console.log(blogs);
     return (
-        <div>Blogs</div>
+        <div>
+           <Card/>
+        </div>
     )
 }
 
