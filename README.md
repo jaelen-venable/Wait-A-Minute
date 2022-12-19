@@ -1,4 +1,5 @@
 # Wait-A-Minute
+![Image](https://cdn4.vectorstock.com/i/1000x1000/54/58/fitness-logo-design-vector-26495458.jpg)
 
 ### This app is designed for you to blog and jot down ideas, experiences, or testimonials.
 
