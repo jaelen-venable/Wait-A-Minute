@@ -19,7 +19,7 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpcdn.sharethis.com%2Fwp-content%2Fuploads%2F2019%2F12%2FBlog_Platform_121919_WP-2.png&imgrefurl=https%3A%2F%2Fsharethis.com%2Fthought-leadership%2F2019%2F12%2Fbest-blogging-platforms%2F&tbnid=FxnpVJCQ6KGHfM&vet=12ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygNegUIARD4AQ..i&docid=EgCkSn1EgJBKnM&w=2500&h=1664&q=blog&ved=2ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygNegUIARD4AQ)
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.blogtyrant.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fhow-long-should-a-blog-post-be.png&imgrefurl=https%3A%2F%2Fwww.blogtyrant.com%2Flong-vs-short-blog-posts%2F&tbnid=3AfOn3lelR7_2M&vet=12ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygPegUIARD8AQ..i&docid=LeZ4s_j-Gie2jM&w=800&h=400&q=blog&ved=2ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygPegUIARD8AQ)
 
 
 ## Date: 12/8/22
