@@ -9,8 +9,6 @@ import {
     Typography,
   } from "@mui/material";
   import React from "react";
-  import ModeEditOutlineIcon from "@mui/icons-material/ModeEditOutline";
-  import DeleteForeverIcon from "@mui/icons-material/DeleteForever";
   import { useNavigate } from "react-router-dom";
   import axios from "axios";
   import { useStyles } from "./utils";
@@ -50,10 +48,10 @@ import {
           {isUser && (
             <Box display="flex">
               <IconButton onClick={handleEdit} sx={{ marginLeft: "auto" }}>
-                <ModeEditOutlineIcon color="warning" />
+                
               </IconButton>
               <IconButton onClick={handleDelete}>
-                <DeleteForeverIcon color="error" />
+                
               </IconButton>
             </Box>
           )}
