@@ -21,6 +21,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fblog-content&psig=AOvVaw2ylWYrwtUj6u0L_GNbhhKu&ust=1671572591467000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODZr5DUhvwCFQAAAAAdAAAAABAD)
 
+## [Deployed](https://git.heroku.com/wamn.git)
 
 ## Date: 12/8/22
 
