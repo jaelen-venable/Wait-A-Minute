@@ -9,7 +9,12 @@
 
 # Technologies
 [ERD](https://lucid.app/lucidchart/cd69955a-30b9-408e-873b-2f258280c3d1/edit?viewport_loc=-39%2C164%2C1559%2C831%2C0_0&invitationId=inv_6232fc74-a218-4923-a231-e9bf782de5b2)
-@@ -23,3 +24,5 @@
+
+
+[CRD](https://app.diagrams.net/#)
+
+### React, HTML, Javascript, CSS, MongoDB, express, nodejs
+
 
 
 ## Date: 12/8/22
