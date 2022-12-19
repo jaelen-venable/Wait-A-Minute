@@ -19,6 +19,8 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpcdn.sharethis.com%2Fwp-content%2Fuploads%2F2019%2F12%2FBlog_Platform_121919_WP-2.png&imgrefurl=https%3A%2F%2Fsharethis.com%2Fthought-leadership%2F2019%2F12%2Fbest-blogging-platforms%2F&tbnid=FxnpVJCQ6KGHfM&vet=12ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygNegUIARD4AQ..i&docid=EgCkSn1EgJBKnM&w=2500&h=1664&q=blog&ved=2ahUKEwil-cGl04b8AhUFnlMKHbG8CfAQMygNegUIARD4AQ)
+
 
 ## Date: 12/8/22
 
