@@ -13,6 +13,12 @@ const Header = () => {
             position="sticky">
         <Toolbar>
             <Typography variant="h4">Wait A Minute</Typography>
+            <Box display="flex">
+                <Tabs>
+            <Tab label="All BLogs"/>
+            <Tab label="My BLogs"/>
+                </Tabs>
+            </Box>
             { !isLoggedIn && <Box display="flex" marginLeft={'auto'} marginRight="auto">
                 <Tabs textColor="inherit" value={value} onChange={(e, val) =>setValue(val)}>
             <Tab LinkComponent={Link} to="/blogs" label="All Blogs"/>
